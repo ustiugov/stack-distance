@@ -1,4 +1,5 @@
 COMPILE=clang++
+COMPILE=/home/parsacom/tools/gcc-qflex/bin/g++
 
 SOURCE_DIR=src
 COMMON=${SOURCE_DIR}/rank-tree.cpp
